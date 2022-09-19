@@ -1,0 +1,5 @@
+GHCi, version 8.10.7: https://www.haskell.org/ghc/  :? for help
+Loaded GHCi configuration from /home/haruka/cs2022/.ghci
+2022-09-19 12:11:46.624562576
+>>> :q
+Leaving GHCi.
